@@ -6,3 +6,9 @@ A structured repository for AI-assisted development. This project follows strict
 - Node.js LTS setup
 - Conventional commits structure
 - CLAUDE.md integration rules
+
+## Getting Started
+
+1. **Install dependencies:**
+   ```bash
+   npm install
